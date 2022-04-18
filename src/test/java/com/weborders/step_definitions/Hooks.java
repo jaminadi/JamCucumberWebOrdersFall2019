@@ -4,7 +4,7 @@ import com.weborders.utilities.ConfigurationReader;
 import com.weborders.utilities.Driver;
 import io.cucumber.java.After;
 import io.cucumber.java.Scenario;
-import org.junit.Before;
+import io.cucumber.java.Before;
 import org.openqa.selenium.OutputType;
 import org.openqa.selenium.TakesScreenshot;
 
